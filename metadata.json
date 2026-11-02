@@ -1,0 +1,6 @@
+{
+  "name": "LensLocal - AI Semantic Photo & File Search",
+  "description": "Local AI semantic photo and file search engine powered by multimodal embeddings, smart duplicate detection, recursive folder indexing, and instant hybrid search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
